@@ -7,9 +7,7 @@ class Pila(object):
 		nuevo.siguiente = self.cima;
 		self.cima = nuevo;
 
-	def Quitar(self)
-		if not getVacia:
-			print "La pila está vacia"
+	def Quitar(self):
 		aux = self.cima.numero
 		self.cima = cima.siguiente
 		return aux

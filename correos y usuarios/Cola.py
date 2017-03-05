@@ -15,6 +15,7 @@ class Cola(object):
 		self.fin.siguiente = nuevo
                 self.fin = nuevo
 
+
 	def Quitar(self):
 		aux = Nodo
 		aux = None

@@ -23,5 +23,5 @@ class Lista:
 				return aux
 		return None
 			 	
-	def Eliminar(self, p):
+	#def Eliminar(self, p):
 		
